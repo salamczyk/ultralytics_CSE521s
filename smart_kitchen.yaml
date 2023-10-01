@@ -1,0 +1,6 @@
+path: data
+train: images/train
+val: images/val
+
+nc: 6
+names : ['Bowl', 'Measure Cups', 'Oats', 'Pan', 'Salt container', 'Spoon']
